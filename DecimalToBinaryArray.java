@@ -1,4 +1,4 @@
-//Part b 
+//Part b DecimalToBinaryArray 
 
 import java.util.Scanner;
 
