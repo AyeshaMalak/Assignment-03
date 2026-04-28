@@ -1,3 +1,5 @@
+//Part (a) DecimalToBinary
+
 import java.util.Scanner;
 
 public class DecimalToBinary {
